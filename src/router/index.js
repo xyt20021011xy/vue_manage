@@ -168,7 +168,7 @@ export const constantRoutes = [
     component: Layout,
     children: [
       {
-        path: 'https://github.com/xyt20021011xy/management_system',
+        path: 'https://github.com/xyt20021011xy/management',
         meta: { title: '项目地址', icon: 'link' }
       }
     ]
